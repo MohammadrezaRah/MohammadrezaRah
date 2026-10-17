@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I’m passionate about **AI** and enjoy building projects using **Python**.  
-Currently learning and experimenting with new AI tools and libraries.
+Currently learning and experimenting with new tools and libraries.
 
 <!---
 MohammadrezaRah/MohammadrezaRah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
