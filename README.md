@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m passionate about **AI** and enjoy building projects using **Python**.  
+I’m passionate about **AI** and enjoy building **Automation projects** using **Python**.  
 Currently learning and experimenting with new tools and libraries.
 
 <!---
